@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "litefishautohelper",
+  "version": "1.0.0",
+  "name": "LiteFish Auto Helper",
+  "description": "Auto fishing mod for LiteFish plugin with auto-sell and minigame logic.",
+  "authors": ["YOOGA"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "com.yooga.litefish.LiteFishAutoHelperClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.15.7",
+    "fabric": "*",
+    "minecraft": "1.21"
+  }
+}
