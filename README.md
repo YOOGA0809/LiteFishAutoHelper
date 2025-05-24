@@ -1,2 +1,3 @@
 # LiteFishAutoHelper
-A Minecraft 1.21 client-side mod that assists with LiteFish fishing minigame
+
+自動釣魚 + 小遊戲自動化 + 自動賣魚 + 玩家靠近暫停 + 開關熱鍵
